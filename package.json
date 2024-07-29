@@ -1,0 +1,20 @@
+{
+  "name": "phaser-game",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mason Guinn",
+  "license": "ISC",
+  "type": "module",
+  "description": "Phaser game with socket.io",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

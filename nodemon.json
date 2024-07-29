@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "server.js",
+    "views/"
+  ],
+  "ext": "js,html",
+  "ignore": [
+    "node_modules/"
+  ]
+}
